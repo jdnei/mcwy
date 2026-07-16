@@ -1,6 +1,10 @@
 # mcwy rancho牧场物语机场官方地址(2026年7月16日更新)
-最新地址01：[mm.mcwy.pro](https://mm.mcwy.pro/#/register?code=XyorTo5q)  
-官方入口地址01：[gg.mcwy.pro](https://gg.mcwy.pro/#/register?code=XyorTo5q)  
+mcwy rancho牧场物语机场官网地址
+最新地址01：[mm.mcwy.pro](https://mm.mcwy.pro/#/register?code=XyorTo5q)</br>
+最新地址02：[gg.mcwy.pro](https://gg.mcwy.pro/#/register?code=XyorTo5q)</br>
+官方入口地址01：[mcfby.com](https://mcfby.com/#/register?code=XyorTo5q)</br>
+官方入口地址02：[mccloud.gay](https://mccloud.gay/#/register?code=XyorTo5q)</br>
+
 ## 邀请码
 ```bash
 XyorTo5q
