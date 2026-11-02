@@ -1,9 +1,12 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
+
 # mcwy rancho牧场物语机场官方地址(2026年11月2日更新)
 mcwy rancho牧场物语机场官网地址</br>
-最新地址01：[mm.mcwy.pro](https://mm.mcwy.pro/#/register?code=XyorTo5q)</br>
-最新地址02：[gg.mcwy.pro](https://gg.mcwy.pro/#/register?code=XyorTo5q)</br>
-官方入口地址01：[mcfby.com](https://mcfby.com/#/register?code=XyorTo5q)</br>
-官方入口地址02：[mccloud.gay](https://mccloud.gay/#/register?code=XyorTo5q)</br>
+最新地址01：[mm.mcwy.pro](https://to.iix.im/mcwy04)</br>
+最新地址02：[gg.mcwy.pro](https://to.iix.im/mcwy03)</br>
+官方入口地址01：[mcfby.com](https://to.iix.im/mcwy02)</br>
+官方入口地址02：[mccloud.gay](https://to.iix.im/mcwy01)</br>
 
 ## 邀请码
 ```bash
