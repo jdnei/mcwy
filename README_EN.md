@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# MCWY Rancho VPN Official Website (Updated November 2, 2026)
+# MCWY Rancho VPN Official Website (Updated November 3, 2026)
 
 Official MCWY Rancho VPN Website<br>
 Latest URL 01: [mm.mcwy.pro](https://to.iix.im/mcwy04)<br>
