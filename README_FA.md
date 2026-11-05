@@ -1,7 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-
-# وب‌سایت رسمی MCWY Rancho VPN (به‌روزرسانی ۲ نوامبر ۲۰۲۶)
-
+# وب‌سایت رسمی MCWY Rancho VPN(به‌روزرسانی 4 نوامبر 2026)
 وب‌سایت رسمی MCWY Rancho VPN<br>
 آخرین آدرس ۰۱: [mm.mcwy.pro](https://to.iix.im/mcwy04)<br>
 آخرین آدرس ۰۲: [gg.mcwy.pro](https://to.iix.im/mcwy03)<br>
