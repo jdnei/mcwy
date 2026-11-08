@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# mcwy rancho牧场物语机场官方地址(2026年11月7日更新)
+# mcwy rancho牧场物语机场官方地址(2026年11月8日更新)
 mcwy rancho牧场物语机场官网地址</br>
 最新地址01：[mm.mcwy.pro](https://to.iix.im/mcwy04)</br>
 最新地址02：[gg.mcwy.pro](https://to.iix.im/mcwy03)</br>
